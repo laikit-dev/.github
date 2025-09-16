@@ -3,6 +3,10 @@
   <p><a href="README.md">简体中文</a> | English</p>
 </div>
 
+## Website
+
+- [laikit.dev](https://laikit.dev)
+
 ## Project
 
 - [Luogu Saver](https://www.luogu.me)
