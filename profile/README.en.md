@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎉 <a href="https://laikit.dev">Hello, We're laikit-dev</a> 🥳</h1>
+  <h1>🎉 Hello, We're laikit-dev 🥳</h1>
   <p><a href="README.md">简体中文</a> | English</p>
 </div>
 
