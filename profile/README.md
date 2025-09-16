@@ -3,6 +3,10 @@
   <p>简体中文 | <a href="README.en.md">English</a></p>
 </div>
 
+## 网站
+
+- [laikit.dev](https://laikit.dev)
+
 ## 项目
 
 - [洛谷保存站](https://www.luogu.me)
