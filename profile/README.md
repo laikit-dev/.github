@@ -5,9 +5,9 @@
 
 ## 网站
 
-- [laikit.dev](https://laikit.dev) | [源代码仓库](https://github.com/laikit-dev/laikit-dev.github.io)
+- [laikit.dev](https://laikit.dev)（[仓库](https://github.com/laikit-dev/laikit-dev.github.io)）
 
 ## 项目
 
-- [洛谷保存站](https://www.luogu.me) | [源代码仓库](https://github.com/laikit-dev/luogu-saver)
-- [帮助中心](https://help.luogu.me) | [源代码仓库](https://github.com/laikit-dev/docs)
+- [洛谷保存站](https://www.luogu.me)（[仓库](https://github.com/laikit-dev/luogu-saver)）
+- [帮助中心](https://help.luogu.me)（[仓库](https://github.com/laikit-dev/docs)）
