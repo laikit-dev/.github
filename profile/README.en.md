@@ -5,9 +5,9 @@
 
 ## Website
 
-- [laikit.dev](https://laikit.dev)
+- [laikit.dev](https://laikit.dev)（[Repository](https://github.com/laikit-dev/laikit-dev.github.io)）
 
 ## Project
 
-- [Luogu Saver](https://www.luogu.me)
-- [Help](https://help.luogu.me)
+- [Luogu Saver](https://www.luogu.me)（[Repository](https://github.com/laikit-dev/luogu-saver)）
+- [Help](https://help.luogu.me)（[Repository](https://github.com/laikit-dev/docs)）
